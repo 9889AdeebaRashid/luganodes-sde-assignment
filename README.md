@@ -18,7 +18,7 @@
 
 * Web application will provide a flexible authentication system, allowing users to sign up and log in using either email/password or Web3 authentication with their Ethereum wallets. JWT (JSON Web Tokens) will be used for secure session management in both cases.
 
-# DASHBOARD 
+# HOW IT LOOKS LIKE :---
 
 ![dee5ff1a-926d-43da-b700-6a0c30883ca9](https://github.com/9889AdeebaRashid/luganodes-sde-assignment/assets/80636537/8fe31f02-e5ca-445a-b5e6-a938c1a7d289)
 
