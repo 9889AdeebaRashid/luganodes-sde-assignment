@@ -7,8 +7,14 @@
 
 *   User management dashboard with multi-authentication with Email/Password and Web3 authentication.
 
-# PICTORIAL REPRESENTATION OF ETHEREUM IDE  
+# PICTORIAL REPRESENTATION OF ETHEREUM IDE  (PART-1)
 ![8ab125ef-1eff-44b8-aed3-7cb962d55bc8](https://github.com/9889AdeebaRashid/luganodes-sde-assignment/assets/80636537/47879b97-6bda-4298-a4f0-c3ed4a5564e0)
+
+# PART - 2 
+
+![9b2e4beb-323f-4ac7-bbab-68552d95796d](https://github.com/9889AdeebaRashid/luganodes-sde-assignment/assets/80636537/0cb5f9c3-fcdc-411f-b2c0-715f84236786)
+
+
 
   
 # Description:
