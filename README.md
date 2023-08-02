@@ -63,8 +63,12 @@ Create a user dashboard that displays relevant information and allows users to m
 
 Add a email based account recovery mechanism for the email/password auth.
 
-# DEMO VIDEO - 1
+# TOTAL ACCOUNTS IN ETHEREUM WALLET --  
 
+
+![COMPILER](https://github.com/9889AdeebaRashid/luganodes-sde-assignment/assets/80636537/e8b9ddeb-60d0-437b-8e94-885403d7c73e)
+
+![ACCOUNTS](https://github.com/9889AdeebaRashid/luganodes-sde-assignment/assets/80636537/4415f5e5-1279-43c7-8e87-a7c2443343b1)
 
 
 # Technology Stack:
@@ -86,3 +90,6 @@ GAS_REPORT=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+
+![THANK YOU](https://github.com/9889AdeebaRashid/luganodes-sde-assignment/assets/80636537/3563e88a-b834-44a2-8485-d518c494a4e9)
