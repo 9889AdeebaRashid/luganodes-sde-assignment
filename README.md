@@ -15,7 +15,6 @@
 ![9b2e4beb-323f-4ac7-bbab-68552d95796d](https://github.com/9889AdeebaRashid/luganodes-sde-assignment/assets/80636537/0cb5f9c3-fcdc-411f-b2c0-715f84236786)
 
 
-
   
 # Description:
 
