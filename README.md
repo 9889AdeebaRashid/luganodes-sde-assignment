@@ -52,7 +52,7 @@ Use proper encryption and security measures to protect sensitive data.
 
 Allow users to switch between email/password and Web3 authentication methods seamlessly.  
 
-* User Dashboard:
+# USER DASHBOARD :
 
   
 ![DASHBOARD](https://github.com/9889AdeebaRashid/luganodes-sde-assignment/assets/80636537/952f29f1-96db-4f25-9a0a-3d5915542ee0)
