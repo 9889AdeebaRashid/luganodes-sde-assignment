@@ -45,6 +45,13 @@ Create a user dashboard that displays relevant information and allows users to m
 
 Add a email based account recovery mechanism for the email/password auth.
 
+# Technology Stack:
+
+* Front-end:
+
+React.js, Next.js, JavaScript.  
+Back-end: Node.js.
+
 Try running some of the following tasks:
 
 ```shell
