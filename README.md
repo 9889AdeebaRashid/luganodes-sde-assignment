@@ -2,7 +2,7 @@
 
 # NAME - ADEEBA RASHID
 # REGISTRATION NUMBER - 20BAI6107
-
+# COLLEGE - VELLORE INSTITUTE OF TECHNOLOGY
 * # Title:
 
 *   User management dashboard with multi-authentication with Email/Password and Web3 authentication.
