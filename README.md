@@ -53,6 +53,8 @@ React.js, Next.js, JavaScript.
 * Back-end:
  Node.js.
 
+# HOW TO RUN THIS APPLICATION--  
+
 Try running some of the following tasks:
 
 ```shell
