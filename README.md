@@ -54,6 +54,9 @@ Allow users to switch between email/password and Web3 authentication methods sea
 
 * User Dashboard:
 
+  
+![DASHBOARD](https://github.com/9889AdeebaRashid/luganodes-sde-assignment/assets/80636537/952f29f1-96db-4f25-9a0a-3d5915542ee0)
+
 Create a user dashboard that displays relevant information and allows users to manage their account settings.  
 
 * Account Recovery Mechanism:
