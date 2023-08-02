@@ -56,6 +56,10 @@ Create a user dashboard that displays relevant information and allows users to m
 
 Add a email based account recovery mechanism for the email/password auth.
 
+# DEMO VIDEO - 1
+
+
+
 # Technology Stack:
 
 * Front-end:
