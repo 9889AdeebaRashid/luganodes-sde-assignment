@@ -50,7 +50,8 @@ Add a email based account recovery mechanism for the email/password auth.
 * Front-end:
 
 React.js, Next.js, JavaScript.  
-Back-end: Node.js.
+* Back-end:
+ Node.js.
 
 Try running some of the following tasks:
 
